@@ -7,8 +7,6 @@ bat文件适用于windows，如在Linux等其他系统中，请运行Portal.py�
 
 本项目适用于Python27，不适用于Python3
 
-本项目初衷是为Ubuntu以及Openwrt使用，故基于Python27开发
-
 低调使用，**由于使用此项目造成的相应后果与本人无关**
 
 个人项目，开源协议AGPL V3
